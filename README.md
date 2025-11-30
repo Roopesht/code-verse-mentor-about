@@ -74,35 +74,33 @@ Built with a clean, modern architecture:
 
 ## 📚 Available Learning Paths
 
-- **Web Development Fundamentals**
+- **Python and Machine Learning**
+- **GenAI, LLM and Fullstack**
 - **JavaScript & Node.js Mastery** 
-- **API Development**
-- **Database Integration**
+- **Java w/GenAI Development**
 - **Frontend Frameworks**
-- **And many more...**
 
 ## 🔧 For Educators & Institutions
 
 Codeverse Mentor is perfect for:
-- **Coding Bootcamps** - Structured curriculum delivery
 - **University Courses** - Supplemental project guidance
 - **Corporate Training** - Standardized skill development
 - **Self-Learners** - Guided independent study
+- **Coding Bootcamps** - Structured curriculum delivery
 
 ## 🛠️ Development & Contribution
 
 We welcome contributions! The project is built with:
-- TypeScript for type safety
 - Modular architecture for extensibility
 - Comprehensive testing suite
 - Clear documentation
 
 ## 📞 Support & Resources
 
-- **[Documentation](https://docs.codeversementor.com)** - Complete API and usage guide
-- **[Sample Projects](https://github.com/codeverse-mentor/examples)** - Example projects and tutorials
-- **[Community Discord](https://discord.gg/codeverse-mentor)** - Get help and share projects
-- **[Issue Tracker](https://github.com/codeverse-mentor/extension/issues)** - Report bugs and request features
+- **[Documentation](https://codeverse.ojasamirai.com)** - Complete usage guide
+- **[Sample Projects](https://github.com/Roopesht/code-verse-mentor-about)** - Example projects and tutorials
+- **[Community Discord](https://discord.com/channels/1404494048936591390/1444635684911710331)** - Get help and share projects
+- **[Issue Tracker](https://github.com/Roopesht/code-verse-mentor-about/issues)** - Report bugs and request features
 
 ## 🏆 The Result
 
