@@ -1,7 +1,5 @@
 # Codeverse Mentor - Guided Project-Based Learning
 
-![Codeverse Mentor Banner](https://via.placeholder.com/1200x400/2563EB/FFFFFF?text=Codeverse+Mentor+-+Build+Confidence+Through+Guided+Coding)
-
 > **ChatGPT gives answers. Codeverse Mentor builds developers.**
 
 A revolutionary VS Code extension that transforms how students learn to code through structured, project-based mentorship with real-time validation and contextual guidance.
@@ -20,19 +18,19 @@ A revolutionary VS Code extension that transforms how students learn to code thr
 ## 🎯 How It Works
 
 ### 1. **Structured Project Journey**
-![Project Steps](https://via.placeholder.com/600x300/2563EB/FFFFFF?text=Step-by-Step+Guidance)
+[Project Steps(https://via.placeholder.com/600x300/2563EB/FFFFFF?text=Step-by-Step+Guidance)]: #
 - Start with curated projects broken into achievable micro-steps
 - Each step has clear objectives and validation criteria
 - Progress automatically saved between sessions
 
 ### 2. **Real-Time Validation**
-![Validation Demo](https://via.placeholder.com/600x300/059669/FFFFFF?text=Real-Time+Code+Validation)
+[Validation Demo(https://via.placeholder.com/600x300/059669/FFFFFF?text=Real-Time+Code+Validation)]: #
 - Instant feedback on your code directly in VS Code
 - Detects common mistakes and suggests fixes
 - Unlocks next steps only when you've mastered current concepts
 
 ### 3. **Context-Aware AI Assistance**
-![AI Assistance](https://via.placeholder.com/600x300/7C3AED/FFFFFF?text=Context-Aware+AI+Mentor)
+[AI Assistance(https://via.placeholder.com/600x300/7C3AED/FFFFFF?text=Context-Aware+AI+Mentor)] : #
 - Get help tailored to your specific step and code
 - Pre-structured prompts eliminate guesswork
 - Learn how to ask better questions over time
@@ -97,7 +95,7 @@ We welcome contributions! The project is built with:
 
 ## 📞 Support & Resources
 
-- **[Documentation](https://codeverse.ojasamirai.com)** - Complete usage guide
+- **[Documentation](https://github.com/Roopesht/code-verse-mentor-about)** - Complete usage guide
 - **[Sample Projects](https://github.com/Roopesht/code-verse-mentor-about)** - Example projects and tutorials
 - **[Community Discord](https://discord.com/channels/1404494048936591390/1444635684911710331)** - Get help and share projects
 - **[Issue Tracker](https://github.com/Roopesht/code-verse-mentor-about/issues)** - Report bugs and request features
