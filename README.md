@@ -30,7 +30,7 @@ A revolutionary VS Code extension that transforms how students learn to code thr
 - Unlocks next steps only when you've mastered current concepts
 
 ### 3. **Context-Aware AI Assistance**
-[AI Assistance(https://via.placeholder.com/600x300/7C3AED/FFFFFF?text=Context-Aware+AI+Mentor)] : #
+[AI Assistance(https://via.placeholder.com/600x300/7C3AED/FFFFFF?text=Context-Aware+AI+Mentor)]: #
 - Get help tailored to your specific step and code
 - Pre-structured prompts eliminate guesswork
 - Learn how to ask better questions over time
